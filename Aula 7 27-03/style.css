@@ -1,0 +1,18 @@
+.calendario{
+    /* Largura */
+    width: 1000px;
+     /*Tamanho  */
+    height: 500px;
+    background-color: rgba(255, 0, 0, 0.335);
+}
+.numero{
+    text-align: center;
+    font-size: 100px;
+}
+
+.dia{
+    text-align: center;
+    font-size: 30px;
+}
+
+

@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    font-family: "Langar", system-ui;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: blue;
+}
+
+.inter{
+      /* Largura */
+      width: 600px;
+      /*Tamanho  */
+     height: 120px;
+}
